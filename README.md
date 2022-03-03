@@ -1,2 +1,2 @@
-# Cybersec-AI
+# Cybersecurity & AI
 Repository for my student assistant work related projects

@@ -1,0 +1,5 @@
+Name,Value,Timestamp,Step
+"best_cv_score",0.19001471725410965,1647913785560,1
+"f1_score_on_testdata",0.15384615384615383,1647913786058,1
+"precision_score_on_testdata",0.625,1647913786061,1
+"recall_score_on_testdata",0.08771929824561403,1647913786062,1

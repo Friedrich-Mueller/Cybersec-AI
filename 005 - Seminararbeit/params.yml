@@ -1,5 +1,0 @@
-best_cv_params:
-  clf__max_depth: 30
-  clf__n_estimators: 1000
-cv_score: f1
-model_path: model.pkl
